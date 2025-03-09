@@ -2,7 +2,6 @@
 
 A sleek and responsive **Admin Dashboard** built using **HTML** and **CSS**. The dashboard provides an intuitive UI for managing various administrative tasks.
 
-![Dashboard Screenshot](./1.jpg)
 
 ## 🌟 Features
 
